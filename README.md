@@ -1,9 +1,6 @@
-#Covid Data, Sonora Mexico.
+# Covid Data, Sonora Mexico.
 
-##
+## Project created on March, 2022. Hermosillo Sonora.
 
 
-
-This project was created to upload a Docker image, and a script file that supports an analysis of covid cases in Sonora Mexico.
-
-Data was obtained from https://www.gob.mx/salud/documentos/datos-abiertos-152127
+This project was created to upload a Docker image, and a script file that supports  analysis of covid cases in Sonora Mexico using data obtained from https://www.gob.mx/salud/documentos/datos-abiertos-152127
